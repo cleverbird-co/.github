@@ -4,7 +4,7 @@
 
 CleverBird is a connected software-development platform: plan, code, review, test and ship from one account and one shared project, so your work keeps its context as it moves between tools.
 
-Founded by **Aaditya Pandey** and **Aniket Shankar**. Official website: **[cleverbird.co](https://cleverbird.co)**
+Founded by **Aaditya Pandey** and **Aniket Shankar**, built with **Namah Rawool** and **Shreyansh Prusty**. Official website: **[cleverbird.co](https://cleverbird.co)**
 
 ### Being built now
 
